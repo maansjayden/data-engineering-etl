@@ -5,6 +5,5 @@ df = pd.read_csv("raw_sales.csv")
 
 df = df.dropna()
 
-# date parsing keeps breaking on mixed formats
-df['date'] = pd.to_datetime(df['date'], errors='coerce')
-print(df['date'])
+df['date'] = pd.to_datetime(df['date'], format='mixed', dayfirst=True).dt.strftime('%Y-%m-%d')
+# print(df['date'].head())
