@@ -1,0 +1,13 @@
+transaction_id,customer_name,date,amount,product
+1,john doe,2024-01-15,150.00,Mechanical Keyboard
+2,jane smith,16/01/2024,85.50,Wireless Mouse
+3,bob jones,,45.00,Mousepad
+4,,2024.01.18,220.00,USB-C Hub
+5,ALICE BROWN,2024-01-20,,27-inch Monitor
+6,charlie davis,21-01-2024,65.00,Headset Stand
+7,  david wilson  ,2024/01/22,310.00,Ergonomic Chair
+8,eva martin,2024-01-25,12.50,HDMI Cable
+9,frank clark,26/01/2024,199.99,External SSD
+10,grace lee,,40.00,Webcam Cover
+11,henry hall,2024.01.30,110.00,Desk Lamp
+12,ivy taylor,02-02-2024,15.00,Cable Clips
