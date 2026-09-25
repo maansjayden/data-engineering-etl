@@ -1,0 +1,5 @@
+transaction_id,customer_name,date,amount,product,validation_status
+3,bob jones,,45.0,Mousepad,Missing Transaction Date
+4,,2024.01.18,220.0,USB-C Hub,Missing Customer Name
+5,ALICE BROWN,2024-01-20,,27-inch Monitor,Missing Amount
+10,grace lee,,40.0,Webcam Cover,Missing Transaction Date
